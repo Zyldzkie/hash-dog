@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashDog", "HashDog.csproj", "{91754C86-6EA6-4E64-9959-E06017693EBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashDog.Desktop", "..\HashDog.Desktop\HashDog.Desktop.csproj", "{D934B4B8-B715-4577-84E2-6AA4F834F20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91754C86-6EA6-4E64-9959-E06017693EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91754C86-6EA6-4E64-9959-E06017693EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91754C86-6EA6-4E64-9959-E06017693EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91754C86-6EA6-4E64-9959-E06017693EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D934B4B8-B715-4577-84E2-6AA4F834F20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D934B4B8-B715-4577-84E2-6AA4F834F20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D934B4B8-B715-4577-84E2-6AA4F834F20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D934B4B8-B715-4577-84E2-6AA4F834F20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29666AC2-6CC5-4FD3-946B-0B8FC5B6874D}
+	EndGlobalSection
+EndGlobal
